@@ -1,4 +1,4 @@
-def suma(a, b)
-    return a+b
+def resta(a, b):
+    return a-b
 
-print(suma(3, 14))
+print("restando...", 3, 14)
